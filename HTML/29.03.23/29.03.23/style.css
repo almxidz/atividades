@@ -1,0 +1,19 @@
+.tituloprincipal{
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+}
+.teste1{
+    text-align: right;
+}   
+.texto1{
+    text-align: justify;
+}
+a{
+    text-decoration: none;
+    color: black
+}
+a:hover{
+    color: red;
+    text-decoration: underline;
+}

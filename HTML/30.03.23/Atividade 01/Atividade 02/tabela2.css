@@ -1,0 +1,14 @@
+table, th, td{
+    border: none 1px teal;
+}
+th{
+    background-color: teal;
+    color: white;
+}
+.coluna2{
+    background-color: aquamarine;
+    color: white;
+}
+table{
+    width:500px ;
+}
